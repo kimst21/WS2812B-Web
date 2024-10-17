@@ -9,7 +9,7 @@ extern const char index_html[];
 extern const char main_js[];
 
 #define WIFI_SSID "WeVO_2.4G"
-#define WIFI_PASSWORD "TB53898358*"
+#define WIFI_PASSWORD "------"
  
 #define STATIC_IP                       // uncomment for static IP, set IP below
 #ifdef STATIC_IP
